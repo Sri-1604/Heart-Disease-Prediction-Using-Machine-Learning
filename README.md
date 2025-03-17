@@ -1,1 +1,1 @@
-# Heart-Disease-Prediction-Using-Machine-Learning
+A simple project of heart disease prediction using logistic regression.
